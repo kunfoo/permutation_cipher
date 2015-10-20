@@ -1,3 +1,6 @@
+# the executable
+permutation_cipher
+
 # Object files
 *.o
 *.ko
